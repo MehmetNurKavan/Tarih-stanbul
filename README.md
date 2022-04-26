@@ -14,4 +14,7 @@ Belirlenmedi
 
 Ürün belirlenme aşamasında.
 
+# Görüşme Notları
+Görüşme notlarını görüntülemek için [tıklayınız.](https://melon-television-c6f.notion.site/G-r-me-Notlar-a90c9328eb2e4413a0cef7ab5fd0a57a)
+
 
