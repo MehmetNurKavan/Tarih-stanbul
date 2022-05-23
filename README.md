@@ -45,7 +45,41 @@ Görüşme notlarını görüntülemek için [tıklayınız.](https://melon-tele
 
 
 # Sprint 2
-Önemli sınav ve iş tarihleri dolayısıyla Spring başlangıcı ileri bir tarihe alınmıştır.
+
+•	Sprint Notları: Kullanıcı hikayeleri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+•	Sprint içinde tamamlanması tahmin edilen puan: 300 Puan
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 300 ile başlaması gerektiğine karar verildi.
+•	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken kırmızı item'lar destanları,  hemen sol tarafındakiler kullanıcı hikaye başlıklarını , içine tıkladığımızda ise hikaye ve kabul kriterlerini görebilirsiniz.
+•	Daily Scrum: Daily Scrum toplantılarının Google meets yada discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word yada link olarak Readme'de tarafımızdan paylaşılmaktadır:
+•	Toplantı notları için Tıklayınız.
+•	
+•	Sprint board update: Sprint board screenshotları:  
+ 
+ 
+ 
+ 
+ 
+ 
+https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sharing
+
+•	Ürün Durumu: Ekran görüntüleri:  
+•	Sprint Review: Alınan kararlar: 
+•	Uygulamada üyelik sistemi olmadan tarihi yerlere erişilmesi kararlaştırılması yapıldı.
+•	Şehir olarak Türkiye’nin metropol şehri İstanbul kararlaştırıldı.
+•	İçerik ve görseller İstanbulun en gözde tarihi mekanları için hazırlanması kararlaştırıldı.
+•	Kullanıcının bu yerlere nasıl gitmesi gerektiği ile ilgili konum bilgisinin de olması karalaştırıldı.
+•	Tasarımda daha soft renklerin kullanılması kararlaştırıldı.
+•	Fontların içerikte 16 px başlıkta 18 px olması kararlaştırıldı.
+•	  Sprint Review katılımcıları: Sevda Cuya,Mert Yavuz, Dilek Çağlar, Kübra Nur Korkmaz , Mehmet Nur Kavan
+
+
+
+•	Sprint Retrospective:
+o	Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+o	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+o	Unit test'ler için ayrılan efor/saat arttırılmalı
+
 
 # Görüşme Notları
 Görüşme notlarını görüntülemek için [tıklayınız.](https://melon-television-c6f.notion.site/G-r-me-Notlar-a90c9328eb2e4413a0cef7ab5fd0a57a)
