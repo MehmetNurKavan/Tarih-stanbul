@@ -57,10 +57,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken k�
 ## Sprint board update: Sprint board screenshotları:  
  
  
+ ![image](https://user-images.githubusercontent.com/78876985/169839296-a653680d-edbb-4207-a407-1b9b54e579ae.png)
+![image](https://user-images.githubusercontent.com/78876985/169839354-50a66b7f-5b85-47da-a73d-2d8d8fd370eb.png)
+![image](https://user-images.githubusercontent.com/78876985/169839387-30d0f698-adc2-4270-ad80-0520c213b7f1.png)
+![image](https://user-images.githubusercontent.com/78876985/169839412-b44de7ee-213c-4a58-9703-09c6b40444a4.png)
+![image](https://user-images.githubusercontent.com/78876985/169839441-785523f0-69e0-4c6d-a171-ab8c733c54f9.png)
+
  
  
- 
- 
+ # Sprint board Görselleri
 https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sharing
 
 ## Ürün Durumu: Ekran görüntüleri:  
