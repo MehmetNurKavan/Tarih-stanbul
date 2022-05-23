@@ -49,6 +49,7 @@ Görüşme notlarını görüntülemek için [tıklayınız.](https://melon-tele
 •	Sprint Notları: Kullanıcı hikayeleri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. </br>
 #	Sprint içinde tamamlanması tahmin edilen puan: 300 Puan   </br>
 •	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 300 ile başlaması gerektiğine karar verildi. </br>
+•Şu anda 180 sprint puan tüketildi. </br>
 •	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.  </br>
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken kırmızı item'lar destanları,  hemen sol tarafındakiler kullanıcı hikaye başlıklarını , içine tıkladığımızda ise hikaye ve kabul kriterlerini görebilirsiniz.  </br>
 •	Daily Scrum: Daily Scrum toplantılarının Google meets yada discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word yada link olarak Readme'de tarafımızdan paylaşılmaktadır </br>
@@ -67,6 +68,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken k�
  
  # Sprint board Görselleri
 https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sharing
+
+![image](https://user-images.githubusercontent.com/78876985/169895507-57cd9a38-2f1f-4177-bfc1-30ad0289038c.png)
+
 
 ## Ürün Durumu: Ekran görüntüleri:
 
