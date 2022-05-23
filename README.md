@@ -24,8 +24,8 @@ Takım İsmi Rotanın Belirleyicileri
 
 
 # Hedef Kitle
-•	İstanbul’da yaşayan kullanıcılar
-•	İstanbul’da yaşayan ve İstanbul’da tarihi yerleri bilmeyen kullanıcılar
+•	İstanbul’da yaşayan kullanıcılar </br>
+•	İstanbul’da yaşayan ve İstanbul’da tarihi yerleri bilmeyen kullanıcılar </br>
 •	İstanbul’u ziyaret etmek isteyen yabancı turistler (Türkçe bilen ve rehber ile gezmeyenler)
 •	Tarihi yerlerin geçmişini merak eden kullanıcılar
 •	15 - 65 yaş arası kullanıcılar
