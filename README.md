@@ -71,6 +71,7 @@ https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sha
 ## Ürün Durumu: Ekran görüntüleri:
 
 ---- drive linki eklenecektir.
+https://drive.google.com/drive/folders/1lbA6dMdw4hmf5sJCi-XEheADNOB61O_B?usp=sharing </br>
 
 
  ## Sprint Review: Alınan kararlar: 
