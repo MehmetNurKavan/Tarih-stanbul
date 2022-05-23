@@ -68,7 +68,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken k�
  # Sprint board Görselleri
 https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sharing
 
-## Ürün Durumu: Ekran görüntüleri:  
+## Ürün Durumu: Ekran görüntüleri:
+
+---- drive linki eklenecektir.
+
+
  ## Sprint Review: Alınan kararlar: 
 •	Uygulamada üyelik sistemi olmadan tarihi yerlere erişilmesi kararlaştırılması yapıldı.  </br>
 •	Şehir olarak Türkiye’nin metropol şehri İstanbul kararlaştırıldı.  </br>
