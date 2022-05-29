@@ -76,7 +76,6 @@ https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sha
 
 ## Ürün Durumu: Ekran görüntüleri:
 
-![image](https://user-images.githubusercontent.com/78876985/169895507-57cd9a38-2f1f-4177-bfc1-30ad0289038c.png)
 
 ---- drive linki eklenecektir.
 https://drive.google.com/drive/folders/1lbA6dMdw4hmf5sJCi-XEheADNOB61O_B?usp=sharing </br>
