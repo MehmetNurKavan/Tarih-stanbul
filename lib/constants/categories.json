@@ -4,42 +4,42 @@
       "id": "1",
       "name": "Camiler",
       "image": "camii",
-      "description": "Ayasofya Camii\nTür:Cami, eski bazilika, katedral ve müze\nMimari tarzı: Bizans Mimarisi\nMimarları: İsidoros, Anthemios\nAçılış tarihi: MS 27 Aralık 537\nAdres: Fatih\nSüleymaniye Camii\nTür:Camii\nMimari tarzları: Osmanlı Mimarisi, İslâmi Mimari\nMimarı: Mimar Sinan\nAçılış tarihi: 1558\nAdres:Fatih\nEyüp Sultan Camii\nTür: Camii\nMimari tarzı: Osmanlı Mimarisi\nMimarları: Fatih Sultan Mehmet, Mimar Sinan, Uzun Hüseyin Efendi\nAçılış tarihi: 1458/59 (İlk yapı)\n                    1798/1800 (İkinci yapı)\nAdres: Eyüpsultan\nOrtaköy Büyük Mecidiye Camii\nTür:Camii\nMimari tarzı: Neo-Barok\nMimarları: Nikoğos Balyan, Garabet Amira Balyan\nAçılış tarihi: 1856\nAdres:Beşiktaş"
+      "description": "İstanbul'un camiilerini keşfet!"
     },{
       "id": "2",
       "name": "Çesmeler",
       "image": "cesme",
-      "description": "Gazanferağa Sebili\nTarzı:Osmanlı\nTarih: 1942- 1943\nMimarı:Davut Ağa\nAdres:Fatih\nKılıç Ali Paşa Sebili\nTarzı:Osmanlı\nTarih:1580-1583\nMimarı:Mimar Sinan\nAdres:Tophane\nIII. Ahmet Çeşmesi\nTarzı:Rokoko\nTarih:1728\nMimarı: Mimar Ahmet Ağa\nAdres:Üsküdar\nEsma Sultan Çeşmesi\nTarzı: Barok\nTarih:1780\nMimarı:Bilinmiyor\nAdres:Beykoz"
+      "description": "İstanbul'un çeşmelerini keşfet!"
     },{
       "id": "3",
       "name": "Hamamalar",
       "image": "hamam",
-      "description": "Ağa Hamamı\nMimari tarzı: klasik dönem\nTarihi:1454\nMimarı: İbrahim Ağa\nAdres:Beyoğlu\nCağaloğlu Hamamı \nMimari tarzı: Osmanlı\nTarihi:1741\nMimarı: Süleyman Ağa\nAdres:Fatih\n\nZeuksippos Banyoları\nMimari tarzı:Bizans\nTarihi: 100 ile 200 yılları\nMimarı: Mimar Sinan tarafından yenilenmiş(1556)\nAdres:Fatih\n\nOrtaköy Hamamı ya da Hüsrev Kethüda Hamamı\nMimari tarzı:Osmanlı\nTarihi:16.yy\nMimarı:Mimar Sinan\nAdres:Beşiktaş"
+      "description": "İstanbul'un hamamlarını keşfet!"
     },{
       "id": "4",
       "name": "Kaleler",
       "image": "kale",
-      "description": "Yoros Kalesi\nMimari tarzı: Bizans Mimarisi\nMimarı: Bilinmiyor\nTarihi: 1262\nAdres:Beykoz\nAnadolu Hisarı \nMimari tarzı:Osmanlı Mimarisi\nMimarı: Bilinmiyor\nTarihi: 1393\nAdres:Beykoz\nGaripçe Kalesi\nMimari tarzı:Osmanlı Mimarisi\nMimarı: Baron François de Tott\nTarihi: 1774\nAdres:Sarıyer\n\nAydos Kalesi\nMimari tarzı:Osmanlı Mimarisi\nMimarı: Bilinmiyor\nTarihi: 11.-12.yy\nAdres:Sultanbeyli"
+      "description": "İstanbul'un kalelerini keşfet!"
     },{
       "id": "5",
       "name": "Köpruler",
       "image": "kopru",
-      "description": "Galata Köprüsü\nKöprü tipi: Baskül köprü\nMimarı: Fritz Leonhardt\nAçılış tarihi: Aralık 1994\nAdres:Beyoğlu\n\nKanuni Sultan Süleyman Köprüsü\nKöprü tipi: Kemer köprü\nMimarı: Mimar Sinan\nAçılış tarihi: 1567\nAdres:Büyükçekmece\nAtatürk Köprüsü\nKöprü Tipi:Ahşap \nMimarı: Bilinmiyor\nAçılış tarihi: 1836\nAdres:Topkapı,Fatih"
+      "description": "İstanbul'un köprülerini keşfet!"
     },{
       "id": "6",
       "name": "Medreseler",
       "image": "medrese",
-      "description": "Caferağa Medresesi\nMimari tarzı: İslâmi Mimari\nMimarı: Mimar Sinan\nAçılış tarihi: 1559\nAdres:Fatih\nRüstem Paşa Medresesi\nMimari tarzı: Osmanlı Mimarisi\nMimarı: Mimar Sinan\nAçılış tarihi:1550\nAdres:Fatih\n\nSahn-ı Seman Medresesi\nMimari Tarzı: Osmanlı Mimarisi\nMimarı: Sinanüddin Yusuf Ağa\nAçılış Tarihi:1470\nAdres:Fatih\nSüleymaniye Medresesi\nMimari Tarzı: Klasik dönem Osmanlı Mimarisi\nMimarı: Mimar Sinan\nAçılış Tarihi:1557\nAdres:Fatih"
+      "description": "İstanbul'un medreselerini keşfet!"
     },{
       "id": "7",
       "name": "Müzeler",
       "image": "muze",
-      "description": "Yerebatan Sarnıcı\nMimari Tarzı: Bizans ve Antik Yunan Mimarisi\nMimarı: Kayserili Mehmet Ağa\nAçılış Tarihi:1987\nAdres:Fatih\n Aya İrini Müzesi\nMimari Tarzı: Bizans\nMimarı:Bilinmiyor\nAçılış Tarihi:4.yy\nAdres:Fatih\nTürk ve İslam Eserleri Müzesi\nMimari Tarzı: Türk-İslami Mimarisi\nMimarı:Mimar Sinan\nAçılış Tarihi:1913\nAdres:Fatih\nPera Müzesi\nMimari Tarzı:Neoklasik\nMimarı:Sinan Genim\nAçılış Tarihi:2005\nAdres:Beyoğlu"
+      "description": "İstanbul'un müzelerini keşfet!"
     },{
       "id": "8",
       "name": "Türbeler",
       "image": "turbe",
-      "description": "Yahya Efendi Türbesi\nMimari tarzı:Klasik Türk Mimarisi\nMimarı:Mimar Sinan\nTarih:1571\nAdres:Beşiktaş\nMerkez Efendi Türbesi\nMimari tarzı:Osmanlı Mimarisi\nMimarı:Mimar Sinan\nTarih:1571\nAdres:Zeytinburnu\n\nII. Mahmud Türbesi\nMimari tarzı:Osmanlı Mimarisi\nMimarı: Mimar Kemaleddin\nTarih:1840\nAdres:Fatih\n\nSultan Reşad Türbesi\nMimari tarzı:Osmanlı Mimarisi\nMimarı: Mimar Kemaleddin\nTarih:1918\nAdres:Eyüpsultan\n"
+      "description": "İstanbul'un türbelerini keşfet!"
     }
   ]
 }

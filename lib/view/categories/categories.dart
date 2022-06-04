@@ -20,16 +20,7 @@ class _CategoriesState extends State<Categories> {
     return Scaffold(
       backgroundColor: RouteColors.light,
       appBar: AppBar(
-        leading: IconButton(
-          icon: Icon(Icons.find_replace_outlined),
-          onPressed: () {},
-        ),
-        actions: [
-          IconButton(
-            icon: Icon(Icons.search),
-            onPressed: () {},
-          ),
-        ],
+
         backgroundColor: RouteColors.dark,
         title: Column(
           children: [
