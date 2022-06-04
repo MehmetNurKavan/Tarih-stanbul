@@ -75,13 +75,13 @@
     {
       "Name": "Ağa Hamamı",
       "Description": "İstanbul'un Taksim semtinde yer alan, 1454 yılında Fatih Sultan Mehmet tarafından yaptırılan tarihi hamamdır. Mimarı İbrahim Ağa'dır.İç yapı soyunmalık, ılıklık ve sıcaklık bölümlerinden meydana gelir bunun yanında tesisat kısmı da büyük yer kaplar, su deposu, külhan ve cehennemlikten oluşmaktadır.15. yüzyılda sultanlar veya padişahlar, halkının kullanması için hamamlar inşa ettirmişler bu yüzden hamamlar genelde çifte (kadın-erkek ayrı bölüm) olarak yapılırdı.\nAğa Hamamı'nın en büyük özelliği halka yapılan bir hamam olmamasıdır. Padişahın kendisine yaptırdığı bir av evinin altına kendi için inşa ettirdiği bir hamamdır. Direkt bir saray hamamına örnek olmasa da özel-padişah hamamlarına örnektir.",
-      "Type": "Hamam",
+      "Type": "3",
       "District": "Beyoğlu"
     },
     {
       "Name": "Cağaloğlu Hamamı ",
       "Description": "İstanbul'un en büyük çifte hamamlarındandır. Yerebatan yakınındaki hamam, I. Mahmut döneminde yaptırılmıştır.(1740/1741). Barok üsluptaki yapının soğukluk ve sıcaklık bölümlerinin düzenlenişinde, klasik osmanlı mimarlığından farklı özellikler görülür. Erkek bölümünde, büyük bir kubbeyle örtülü soyunmalıktan, küçük bir kubbe ve yedi tonozla örtülü soğukluğa geçilir. Sıcaklık da sekiz mermer sutünu bağlayan kemerlere oturan büyük bir kubbe ile örtülüdür. Ortada büyük bir göbek taşı, köşelerde kubbeli halvet hücreleri bulunmaktadır. Sultan III. Mustafa tarafından şehrin artan su ve odun ihtiyacı nedeniyle 1768'de büyük hamam yapilmasının yasaklanmasından önce inşa edilen son büyük hamam olması nedeniyle önem taşır.",
-      "Type": "Hamam",
+      "Type": "3",
       "District": "Fatih"
     },
     {
@@ -189,7 +189,7 @@
     {
       "Name": "Belgrad Ormanı",
       "Description": "Adını  Kanuni Sultan Süleyman’ın Sırbistan seferi dönüşünde beraberinde getirdiği Sırp esirleri bu alanda barındırmasından almış.\nOrmana ve içme sularına zarar veren Sırplar, 1800’lü yıllarında sonunda bu alandan çıkartılmış ve Belgrad Ormanı, halka açık hale gelmiş.\n5 bin 400 hektarlık bir alan üzerine kurulu olan Belgrad Ormanı’nın büyüklüğü sebebiyle içeride farklı mesire alanları yaratılmış.\nYıldız Parkı Korusu\nBulunduğu alan 17. yüzyılda Kazancıoğlu Ailesi‘ne ait olduğu için zamanında Kazancıoğlu Bahçesi olarak adlandırılıyordu.\nIV. Murat’ın kızına hediye etmek amacıyla satın aldığı bahçe, Cumhuriyet Dönemi’nde de zaman zaman bazı işletme ve kurumlara kiralanmış.\n1994 yılında sona eren sözleşmeden sonra bahçe, İstanbul Büyükşehir Belediyesi tarafından halka açılmış.",
-      "Type": "Park",
+      "Type": "8",
       "District": "Sarıyer"
     }
   ]

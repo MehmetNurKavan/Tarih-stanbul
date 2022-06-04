@@ -37,6 +37,12 @@
       "description": "İstanbul'un müzelerini keşfet!"
     },{
       "id": "8",
+      "name": "Parklar",
+      "image": "park",
+      "description": "İstanbul'un parklarını keşfet!"
+    },
+    {
+      "id": "9",
       "name": "Türbeler",
       "image": "turbe",
       "description": "İstanbul'un türbelerini keşfet!"
