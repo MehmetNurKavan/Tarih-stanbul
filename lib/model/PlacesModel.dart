@@ -4,6 +4,7 @@ class PlacesModel {
   late String Type;
   late String District;
   late String ImageUrl;
+  late String CategoryName;
 }
 
 class PlacesListModel {

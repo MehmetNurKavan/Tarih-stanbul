@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_development/constants/colors.dart';
-import 'package:flutter_development/data/category.dart';
-import 'package:flutter_development/view/categories/places.dart';
+import 'package:flutter_development/model/PlacesModel.dart';
+
+import '../../../constants/colors.dart';
+import '../../categories/placeDetails.dart';
 
 Widget _cardSm(String title, String spots, icon, String img) {
   return Card(
@@ -125,12 +126,16 @@ Widget _cardAlert(String title, String spots, icon, String img) {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text(
-                      title,
-                      style: TextStyle(
-                          color: RouteColors.light,
-                          fontSize: 30,
-                          fontWeight: FontWeight.bold),
+                    Container(
+                      width: 210,
+                      child: Text(
+                        title,
+                        style: TextStyle(
+                            color: RouteColors.light,
+                            fontSize: 30,
+                            fontWeight: FontWeight.bold),
+                        overflow: TextOverflow.fade,
+                      ),
                     ),
                     Container(
                       height: 46,
@@ -149,9 +154,15 @@ Widget _cardAlert(String title, String spots, icon, String img) {
                   ],
                 ),
                 SizedBox(
-                  height: 40,
+                  height: 10,
                 ),
-                Text(spots, style: TextStyle(color: Colors.white))
+                Container(
+                  height: 110,
+                  child: Text(
+                    spots.substring(0, 200) + "...",
+                    style: TextStyle(color: Colors.white),
+                  ),
+                )
               ],
             ),
           ],
@@ -162,10 +173,10 @@ Widget _cardAlert(String title, String spots, icon, String img) {
 }
 
 class CardLg extends StatefulWidget {
-  late Category category;
+  late PlacesModel placesModel;
   CardLg({
     Key? key,
-    required this.category,
+    required this.placesModel,
   }) : super(key: key);
 
   @override
@@ -188,18 +199,17 @@ class _CardLgState extends State<CardLg> {
                   Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => Places(
-                                typeId: widget.category.id,
-                              )));
+                          builder: (context) =>
+                              DetailPage(placesModel: widget.placesModel)));
                 },
                 onLongPress: () {
-                  _showMyDialog(widget.category, context);
+                  _showMyDialog(widget.placesModel, context);
                 },
                 child: _cardLg(
-                    widget.category.name,
-                    widget.category.description,
+                    widget.placesModel.Name,
+                    widget.placesModel.Description,
                     Icons.location_on,
-                    widget.category.image),
+                    widget.placesModel.ImageUrl),
               ),
             )),
       ],
@@ -208,13 +218,13 @@ class _CardLgState extends State<CardLg> {
 }
 
 class CardSm extends StatefulWidget {
-  late Category first_category;
-  late Category second_category;
+  late PlacesModel first_place;
+  late PlacesModel second_place;
 
   CardSm({
     Key? key,
-    required this.first_category,
-    required this.second_category,
+    required this.first_place,
+    required this.second_place,
   }) : super(key: key);
 
   @override
@@ -227,15 +237,14 @@ class _CardSmState extends State<CardSm> {
     return Row(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
       GestureDetector(
         onLongPress: () {
-          _showMyDialog(widget.first_category, context);
+          _showMyDialog(widget.first_place, context);
         },
         onTap: () {
           Navigator.push(
               context,
               MaterialPageRoute(
-                  builder: (context) => Places(
-                        typeId: widget.first_category.id,
-                      )));
+                  builder: (context) =>
+                      DetailPage(placesModel: widget.first_place)));
         },
         child: Column(children: <Widget>[
           Container(
@@ -244,24 +253,23 @@ class _CardSmState extends State<CardSm> {
               child: Padding(
                 padding: const EdgeInsets.only(left: 16),
                 child: _cardSm(
-                    widget.first_category.name,
-                    widget.first_category.description,
+                    widget.first_place.Name,
+                    widget.first_place.Description,
                     Icons.location_on,
-                    widget.first_category.image),
+                    widget.first_place.ImageUrl),
               )),
         ]),
       ),
       GestureDetector(
         onLongPress: () {
-          _showMyDialog(widget.second_category, context);
+          _showMyDialog(widget.second_place, context);
         },
         onTap: () {
           Navigator.push(
               context,
               MaterialPageRoute(
-                  builder: (context) => Places(
-                        typeId: widget.second_category.id,
-                      )));
+                  builder: (context) =>
+                      DetailPage(placesModel: widget.second_place)));
         },
         child: Column(children: <Widget>[
           Container(
@@ -270,10 +278,10 @@ class _CardSmState extends State<CardSm> {
               child: Padding(
                 padding: const EdgeInsets.only(right: 16),
                 child: _cardSm(
-                    widget.second_category.name,
-                    widget.second_category.description,
+                    widget.second_place.Name,
+                    widget.second_place.Description,
                     Icons.location_on,
-                    widget.second_category.image),
+                    widget.second_place.ImageUrl),
               )),
         ]),
       )
@@ -282,7 +290,7 @@ class _CardSmState extends State<CardSm> {
 }
 
 Future<void> _showMyDialog(
-  Category category,
+  PlacesModel placesModel,
   BuildContext context,
 ) {
   return showDialog<void>(
@@ -296,8 +304,8 @@ Future<void> _showMyDialog(
         content: SingleChildScrollView(
           child: Column(
             children: [
-              _cardAlert(category.name, category.description, Icons.location_on,
-                  category.image),
+              _cardAlert(placesModel.Name, placesModel.Description,
+                  Icons.location_on, placesModel.ImageUrl),
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Row(
@@ -330,12 +338,6 @@ Future<void> _showMyDialog(
                                 MaterialStateProperty.all(RouteColors.green)),
                         onPressed: () {
                           Navigator.of(context).pop();
-                          Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (context) => Places(
-                                        typeId: category.id,
-                                      )));
                         },
                       ),
                     ),
