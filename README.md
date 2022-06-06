@@ -131,6 +131,11 @@ https://drive.google.com/drive/folders/1nuyd6Rr1RT95eZM4rVTagipVCz0Cnjrz?usp=sha
 
 ## Ürün Durumu: Ekran görüntüleri:
 
+![WhatsApp Image 2022-06-05 at 03 07 53](https://user-images.githubusercontent.com/78876985/172160425-fdfba6a5-731a-416b-930e-e9a090d85f01.jpeg)
+
+![WhatsApp Image 2022-06-05 at 03 09 06](https://user-images.githubusercontent.com/78876985/172160469-ad88b3de-1736-47bb-ae58-cfdba56b7624.jpeg)
+
+![WhatsApp Image 2022-06-05 at 03 07 39](https://user-images.githubusercontent.com/78876985/172160494-ecf6be3f-1530-4002-81a1-dc05ba43fe30.jpeg)
 
 ---- drive linki eklenecektir.
 https://drive.google.com/drive/folders/1lbA6dMdw4hmf5sJCi-XEheADNOB61O_B?usp=sharing </br>
