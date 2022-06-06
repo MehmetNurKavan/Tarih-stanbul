@@ -24,7 +24,7 @@ class _CategoriesState extends State<Categories> {
         backgroundColor: RouteColors.dark,
         title: Column(
           children: [
-            Text('Rota - ' + model.CityName),
+            Text('Tarih ' + model.CityName),
             Text(
               "Kategoriler",
               style: TextStyle(fontSize: 15),
