@@ -99,12 +99,12 @@ o	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında ger
 o	Unit test'ler için ayrılan efor/saat arttırılmalı
 
 
-# Sprint 2
+# Sprint 3
 
 •	Sprint Notları: Kullanıcı hikayeleri product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir. </br>
-#	Sprint içinde tamamlanması tahmin edilen puan: 300 Puan   </br>
-•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 300 ile başlaması gerektiğine karar verildi. </br>
-•Şu anda 180 sprint puan tüketildi. </br>
+#	Sprint içinde tamamlanması tahmin edilen puan: 120 Puan   </br>
+•	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 420 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 120 ile bitirilmesi  gerektiğine karar verildi. </br>
+•Şu anda 480 sprint puan tüketildi. </br>
 •	Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.  </br>
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Asana'da gözüken kırmızı item'lar destanları,  hemen sol tarafındakiler kullanıcı hikaye başlıklarını , içine tıkladığımızda ise hikaye ve kabul kriterlerini görebilirsiniz.  </br>
 •	Daily Scrum: Daily Scrum toplantılarının Google meets yada discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word yada link olarak Readme'de tarafımızdan paylaşılmaktadır </br>
@@ -143,10 +143,10 @@ https://drive.google.com/drive/folders/1lbA6dMdw4hmf5sJCi-XEheADNOB61O_B?usp=sha
 
  ## Sprint Review: Alınan kararlar: 
 •	Uygulamada üyelik sistemi olmadan tarihi yerlere erişilmesi kararlaştırılması yapıldı.  </br>
-•	Şehir olarak Türkiye’nin metropol şehri İstanbul kararlaştırıldı.  </br>
-•	İçerik ve görseller İstanbulun en gözde tarihi mekanları için hazırlanması kararlaştırıldı.  </br>
-•	Kullanıcının bu yerlere nasıl gitmesi gerektiği ile ilgili konum bilgisinin de olması karalaştırıldı.  </br>
-•	Tasarımda daha soft renklerin kullanılması kararlaştırıldı.  </br>
+•	Tarihi yerlere özgü icon tasarımının yapılması kararlaştırıldı ancak hazırlanan iconlar kullanılmadı.  </br>
+•	İçerik ve görseller İstanbulun en gözde tarihi mekanları için hazurlandı.  </br>
+•	Tarihi yerlere özgü bilgilendirici içeriklere yer verilmiştir.  </br>
+•	Tasarımda daha soft renklerin kullanılması kararlaştırılmıştı ancak tema rengi siyah-beyaz olarak değiştirildi.  </br>
 •	Fontların içerikte 16 px başlıkta 18 px olması kararlaştırıldı.  </br>
  ## Sprint Review katılımcıları: 
    Sevda Cuya,Mert Yavuz, Dilek Çağlar, Kübra Nur Korkmaz , Mehmet Nur Kavan
