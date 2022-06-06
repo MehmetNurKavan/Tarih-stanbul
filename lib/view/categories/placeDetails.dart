@@ -100,7 +100,7 @@ class DetailPage extends StatelessWidget {
     );
 
     final bottomContentText = Container(
-      height: 360.0,
+      height: 230.0,
       child: SingleChildScrollView(
         scrollDirection: Axis.vertical,
         child: Text(
@@ -114,7 +114,7 @@ class DetailPage extends StatelessWidget {
       // height: MediaQuery.of(context).size.height,
       width: MediaQuery.of(context).size.width,
       // color: Theme.of(context).primaryColor,
-      padding: EdgeInsets.all(40.0),
+      padding: EdgeInsets.all(25.0),
       child: Center(
         child: Column(
           children: <Widget>[bottomContentText],
