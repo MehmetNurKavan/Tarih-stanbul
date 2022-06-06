@@ -152,9 +152,9 @@ https://drive.google.com/drive/folders/1lbA6dMdw4hmf5sJCi-XEheADNOB61O_B?usp=sha
 
 
 ## Sprint Retrospective:
-o	Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-o	Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-o	Unit test'ler için ayrılan efor/saat arttırılmalı
+o	Yapılacak işler doğrultusunda görev dağılımı yapılmıştır. Arkadaşların müsaitlik durumuna göre görev dağılımları güncellenmiştir.
+o	120 puanlık sprint tükendi. Geliştiriciler extra yenilikler eklenmesi istenmiş buda bir sonraki sprintte v2 güncellemesi olarak karalaştırılmıştır.
+o	Unit test'ler için ayrılan efor/saat artırılmıştır.
 
 
 # Görüşme Notları
